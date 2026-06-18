@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Letra y Sentido</string>
+    <string name="capture_audio">Capturar Audio</string>
+    <string name="stop_capture">Detener Captura</string>
+    <string name="permission_required">Permiso requerido para continuar</string>
+    <string name="overlay_permission_desc">Se necesita permiso para mostrar sobre otras apps</string>
+</resources>
