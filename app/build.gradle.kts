@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.letraysentido.app"
+    namespace = "com.edgovigv.letra_sentido"
     compileSdk = 34
 
     defaultConfig {
